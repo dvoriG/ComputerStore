@@ -1,0 +1,19 @@
+.buttonOrder{
+    /* margin-top: 12% !important; */
+    background-color: rgb(31, 31, 56) !important;
+    
+}
+.buttonOrder:hover{
+    background-color: brown !important;
+}
+.buttonLi{
+    color: rgb(246, 245, 240) !important;
+    text-decoration: none;
+}
+.buttonAll{
+    background-color: rgb(246, 245, 240) !important;
+}
+.buttonL{
+    text-decoration: none;
+    color: rgb(31, 31, 56) !important;
+}

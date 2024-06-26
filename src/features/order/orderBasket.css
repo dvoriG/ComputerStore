@@ -1,0 +1,14 @@
+.orderCard{
+    direction: rtl;
+    /* margin-top: 120px; */
+    border: solid 1px black;
+    /* margin-bottom: 100px;
+    margin-left: 25%;
+    margin-right:25%; */
+    /* margin: 180px 25% 25% 25%; */
+    margin: 180px auto 25% 25%;
+    width: 50%;
+    /* overflow: 25px !important; */
+    /* height: 650px; */
+    /* width: 650px; */
+}

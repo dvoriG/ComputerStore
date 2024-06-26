@@ -1,0 +1,39 @@
+.NavBar{
+    background-color: rgb(31, 31, 56) !important;
+}
+
+.navBarLink{
+    color: rgb(255, 255, 255) !important;
+    text-decoration: none;
+}
+.navBarLink:hover{
+    color: rgb(137, 18, 9) !important;
+}
+.boxLink{
+    color: rgb(137, 18, 9) !important;
+    text-decoration: none;
+}
+.boxLink:hover{
+    color: rgb(228, 61, 61) !important;
+}
+.navBarButton{
+    background-color: rgb(255, 255, 255) !important;
+    color: rgb(31, 31, 56) !important;
+    text-decoration: none;
+
+/* overflow: visible; */
+}
+.buttonLink2{
+    color: rgb(31, 31, 56) !important;
+    text-decoration: none;
+}
+.navBarButton:hover{
+    color: rgb(109, 14, 12) !important;
+
+}
+.user{
+    margin-left: 5%;
+    color: azure;
+    font-size: 30px;
+}
+

@@ -1,0 +1,51 @@
+.details { 
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+
+    /* direction: rtl; */
+
+}
+.font{
+   margin-top: 20px;
+   font-weight: bold;
+}
+.buttonOrder{
+   /* margin-top: 12% !important; */
+  background-color: rgb(36, 35, 35) !important;
+   
+}
+.buttonOrder:hover{
+   background-color: brown !important;
+}
+/* .buttonLink{
+   color: rgb(246, 245, 240) !important;
+   text-decoration: none;
+} */
+.buttonLink{
+   color: rgb(246, 245, 240) !important;
+   text-decoration: none;
+}
+.buttonGroup{
+
+   /* direction: ltr !important; */
+   margin-top: 12% !important;
+   background-color: rgb(246, 245, 240) !important;
+   color: rgb(36, 35, 35) !important; 
+   border:solid rgb(36, 35, 35) 2px !important;
+}
+.buttonGroup:hover{
+   background-color: brown !important;
+}
+.allButtonGroup{
+   box-shadow: none !important;
+
+}
+.cardMediad{
+   /* width: 50%; */
+   overflow: 10px !important;
+   margin: 10%;
+
+}

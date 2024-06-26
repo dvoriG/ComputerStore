@@ -1,0 +1,23 @@
+.login{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    margin-right: 2%;
+    margin-left: 2%;     
+}
+
+.button{
+    width: 100% !important;
+    background-color:rgb(109, 14, 12) !important;
+    overflow: visible;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.buttons{
+   margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 2%;
+    margin-left: 2%;
+}
